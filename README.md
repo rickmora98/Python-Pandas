@@ -5,9 +5,9 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 ### Folders/Files:
 
 "HeroesOfPymoli" (folder)
-> "HeroesOfPymoli.ipynb (jupyter notebook file containing python/pandas code)
-> "Resources": (folder)
->> "purchase_data.csv" (input data file)
+* "HeroesOfPymoli.ipynb (jupyter notebook file containing python/pandas code)
+* "Resources": (folder)
+** "purchase_data.csv" (input data file)
 
 	
 Notes:
