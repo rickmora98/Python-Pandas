@@ -4,19 +4,15 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 
 ### Folders/Files:
 
-"HeroesOfPymoli" (folder)
-* "HeroesOfPymoli.ipynb (jupyter notebook file containing python/pandas code)
-* "Resources": (folder)
-** "purchase_data.csv" (input data file)
-
+"HeroesOfPymoli" (folder) <br>
+- "HeroesOfPymoli.ipynb (jupyter notebook file containing python/pandas code) <br>
+- "Resources": (folder) <br>
+-	"purchase_data.csv" (input data file) <br>
 	
-Notes:
+#### Note: <br>
 
-The python scripts rely on relative path referencing, therefore the folders "Resources" 
-and "Analysis" should not be deleted, moved, or renamed.  Also, the input files must be
-present in the "Resources" folders and not be renamed.
-If the output files already exist in the "Analysis" folders prior to executing the code,
-they will be replaced by the new output files.
+The notebook script relies on relative path referencing to the input file "purchase_data.csv" in <br>
+subfolder "Resources".  Therefore neither should be deleted, moved, or renamed. <br>
 
 Submitted by Ricardo G. Mora, Jr.  10/07/2021
  
