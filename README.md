@@ -1,13 +1,13 @@
-## pandas-challenge 
+# pandas-challenge 
 
 This repository contains my solutions to Data Analytics Bootcamp Homework Assignment #4.
 
-### Folders/Files:
+#### Folders/Files:
 
-**"HeroesOfPymoli"** (main folder) <br>
-- *"HeroesOfPymoli.ipynb"* (jupyter notebook file containing python/pandas code) <br>
-- **"Resources"** (subfolder) <br>
-	- *"purchase_data.csv"* (input data file) <br>
+> **"HeroesOfPymoli"** (main folder) <br>
+> - *"HeroesOfPymoli.ipynb"* (jupyter notebook file containing python/pandas code) <br>
+> - **"Resources"** (subfolder) <br>
+>	- *"purchase_data.csv"* (input data file) <br>
 	
 #### Note: <br>
 
