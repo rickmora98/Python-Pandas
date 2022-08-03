@@ -1,6 +1,10 @@
-# pandas-challenge 
+<h1> Heroes of Pymoli <br> (Using Python and Pandas to analyze data for a ficticious game) </h1>
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment #4.
+This Jupyter notebook (HeroesOfPymoli.ipynb) demonstrates several ways to use Pandas data frames to analyze age, gender, and spending patterns
+for the ficticious game Heroes of Pymoli. The input data comes from csv file "purchase_data.csv". 
+There is not an output data file, but all output is contained within the notebook and appears below each corresponding code cell.
+
+To examine the source code files and data files, their locations are indicated in the tree below:
 
 #### Folders/Files:
 
@@ -9,11 +13,9 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 > - **"Resources"** (subfolder) <br>
 >	- *"purchase_data.csv"* (input data file) <br>
 	
-#### Note: <br>
+(Please do not move, rename, delete, or alter!)
 
-The notebook script relies on relative path referencing to the input file *"purchase_data.csv"* in <br>
-subfolder **"Resources"** therefore neither should be deleted, moved, or renamed. <br>
-
-#### Submitted by: <br>
- Ricardo G. Mora, Jr.  10/07/2021
+#### Snippets of Source Code: <br>
  
+<img src="Images/CodeSnip1.jpg"> <br>
+<img src="Images/CodeSnip2.jpg"> <br>
